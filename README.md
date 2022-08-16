@@ -6,7 +6,7 @@ Aspiring Backend Software Engineer
 
 I have been learning python for the the last 2 years, and I hope to use my expertise to help build software and help solve problems
 
-* 🌍  I'm based in Ghana,Kumasi
+* 🌍  I'm based in Kumasi,Ghana
 * 🧠  I'm learning Go-Lang and the Django Framework with python
 * 🤝  I'm open to collaborating on Open-Source projects and any other intresting projects
 * ⚡  Any Fool Can Know, The Point is to Understand - Albert Einstein
