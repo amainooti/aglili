@@ -11,7 +11,7 @@ I have been learning python for the the last 2 years, and I hope to use my exper
 * 🤝  I'm open to collaborating on Open-Source projects and any other intresting projects
 * ⚡  Any Fool Can Know, The Point is to Understand - Albert Einstein
 
-<a href="https://www.twitter.com/badcecil_" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/n0tcecil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/badcecil_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
