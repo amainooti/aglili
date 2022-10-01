@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aglili Selorm Cecil
 ===========================================================================================================================================
 
-Aspiring Backend Software Engineer
+Aspiring FullStack Software Engineer
 ----------------------------------
 
 I have been learning python for the the last 2 years, and I hope to use my expertise to help build software and help solve problems
