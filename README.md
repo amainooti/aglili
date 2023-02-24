@@ -1,37 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aglili Selorm Cecil
-===========================================================================================================================================
+Hi 👋 My name is Aglili Selorm Cecil
+====================================
 
-Aspiring Backend Software Engineer
-----------------------------------
+Backend Software Developer
+--------------------------
 
-I have been learning python for the the last 2 years, and I hope to use my expertise to help build software and help solve problems
+I've been learning backend development for the last one year.
 
-* 🌍  I'm based in Kumasi,Ghana
-* 🧠  I'm learning Go-Lang and the Django Framework with python
-* 🤝  I'm open to collaborating on Open-Source projects and any other intresting projects
-* ⚡  Any Fool Can Know, The Point is to Understand - Albert Einstein
-
-<a href="https://www.twitter.com/0bx10101" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/0bx10101?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
-/></a>
-
-### Skills
-
+*   🌍  I'm based in Akosombo, Ghana
+*   ✉️  You can contact me at [cecilselorm34@gmail.com](mailto:cecilselorm34@gmail.com)
+*   🧠  I'm learning fastapi,django,gorilla mux and gin<a href="https://www.twitter.com/0bx10101" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/0bx10101?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/cecilcodespython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/badcecil_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cecilcodespython"><img src="https://activity-graph.herokuapp.com/graph?username=cecilcodespython&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/cecilcodespython" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilcodespython&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/cecilcodespython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/0bx10101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/cecilcodespython"><img src="https://github-readme-stats.vercel.app/api?username=cecilcodespython&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cecilcodespython's GitHub stats" /></a><a
+                      href="http://www.github.com/cecilcodespython"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=cecilcodespython&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/cecilcodespython" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilcodespython&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
